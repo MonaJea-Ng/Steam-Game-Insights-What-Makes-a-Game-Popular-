@@ -19,7 +19,7 @@ The project aims to answer key questions such as:
 - Game success may be influenced by external factors (e.g., marketing, IP recognition).
  
 **Next Steps:**
-Use machine learning to predict ownership or rating from features.
-Build an interactive dashboard to explore Steam data dynamically.
+- Use machine learning to predict ownership or rating from features.
+= Build an interactive dashboard to explore Steam data dynamically.
 
 
