@@ -20,6 +20,6 @@ The project aims to answer key questions such as:
  
 **Next Steps:**
 - Use machine learning to predict ownership or rating from features.
-= Build an interactive dashboard to explore Steam data dynamically.
+- Build an interactive dashboard to explore Steam data dynamically.
 
 
